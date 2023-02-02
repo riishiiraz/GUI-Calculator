@@ -1,3 +1,5 @@
+# This Code Was Written on [Aug-10-2019] by @riishiiraz
+
 from tkinter import *
 from math import factorial
 
